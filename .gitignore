@@ -1,0 +1,6 @@
+src/secrets.properties
+bin/
+lib/
+.settings
+.project
+.classpath
